@@ -1,1 +1,1 @@
-# BlogWithCleanArchCQRSAndMediator.API
+# BlogWithCleanArchCQRSAndMediator
