@@ -1,8 +1,8 @@
 using System;
 
-namespace BlogWithCleanArchCQRSAndMediator.Domain.Entity;
+namespace BlogWithCleanArchCQRSAndMediator.Application.Blogs.Queries.GetBlogs;
 
-public class Blog
+public class BlogDto
 {
     public int Id { get; set; }
     public string Name { get; set; }
