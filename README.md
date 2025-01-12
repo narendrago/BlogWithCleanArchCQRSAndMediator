@@ -1,6 +1,6 @@
 # BlogWithCleanArchCQRSAndMediator
 
-This is an ASP.NET Core project based on **.NET 8.0** with implementation of CRUD operations for **Blogs** based on tutorial - [Clean architecture in asp.net core web api | CQRS | Mediator](https://www.youtube.com/watch?v=C8mh8cziDSU)
+This is an ASP.NET Core project based on **.NET 8.0** with implementation of CRUD operations using CQRS and Mediator patterns for **Blogs** based on tutorial - [Clean architecture in asp.net core web api | CQRS | Mediator](https://www.youtube.com/watch?v=C8mh8cziDSU)
 
 ## NuGet Packages Used
 
